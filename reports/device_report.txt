@@ -1,0 +1,12 @@
+Hostname: router1
+IP: 10.0.0.1
+Status: active
+
+Hostname: switch1
+IP: 10.0.0.2
+Status: active
+
+Hostname: router2
+IP: 10.0.0.3
+Status: inactive
+
